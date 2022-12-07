@@ -2,6 +2,7 @@
 
 ## Group 16 Animal shelter database
 Members: Yuteng Zhang, Qianna Xu
+## Project proposal can be found at https://docs.google.com/document/d/15SQkvRzSfLdW-ADJFgEga5yCrzJgc03z/edit?usp=sharing&ouid=102507649283465667619&rtpof=true&sd=true
 
 # Project report
 
