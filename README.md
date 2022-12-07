@@ -19,4 +19,6 @@ https://docs.google.com/document/d/15SQkvRzSfLdW-ADJFgEga5yCrzJgc03z/edit?usp=sh
 
 ## Load
 * Using pymongo, four cleaned dataframes were imported into MongoDB. Each dataframe was loaded into MongoDB as a collection in the animal_shelter_db database.
+* The database was created to host animal shelter intake and outcome record from different city to help people understand the operational processes at these animal shelters.
+* We can also use the data to examine tempoal trends in how many animals were housed at animal shelters and how many of them were adopted, etc. across different years. The trends can also be compared across different cities.
 
